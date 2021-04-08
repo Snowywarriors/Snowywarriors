@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @Snowywarriors or Anna
-- 👀 I’m interested in user experience design, user experience research, data science, science communication, user interface design, video games, HTML, CSS, and more!
-- 🌱 I’m currently learning and refining my skills with prototyping tools.
-- 💞️ I’m looking to collaborate on design projects!
-- 📫 How to reach me: anna.m.pataky@gmail.com or ampataky@ncsu.edu
+### User experience (UX) researcher and designer based in Apex, North Carolina
 
-<!---
-Snowywarriors/Snowywarriors is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📛 Anna Pataky, she/her  
+👩‍💻 Working on [thesis][thesis]  
+🧠 Learning [figma][figma], [adobe-xd][adobexd]  
+💙 Loving ux design, ux research, data science, science communication, ui design, video games, HTML, CSS, and more!
+
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
+
+[thesis]: https://research.design.ncsu.edu/thenfinally/
+[figma]: https://www.figma.com/
+[adobexd]: https://www.adobe.com/products/xd.html
+[website]: https://annapataky.com
+[twitter]: https://twitter.com/snowywarriors
+[instagram]: https://instagram.com/snowywarriors
+[linkedin]: https://linkedin.com/in/anna-pataky
