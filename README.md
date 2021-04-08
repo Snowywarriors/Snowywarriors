@@ -3,7 +3,7 @@
 ## I'm a User experience (UX) researcher and designer!
 
 - 👩‍💻 Working on: [thesis][thesis]  
-- 🧠 Learning: [figma][figma], [adobe-xd][adobexd]  
+- 🧠 Learning: [figma][figma], [adobe-xd][adobexd], github integration  
 - 💙 Loving: ux design, ux research, data science, science communication, ui design, video games, HTML, CSS, and more!  
 - 📛 Pronouns: she/her  
 
