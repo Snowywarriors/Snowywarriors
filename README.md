@@ -1,10 +1,13 @@
-### User experience (UX) researcher and designer based in Apex, North Carolina
+### Hi there, I'm Snowywarriors  -  aka [Anna][website] 👋
 
-📛 Anna Pataky, she/her  
-👩‍💻 Working on [thesis][thesis]  
-🧠 Learning [figma][figma], [adobe-xd][adobexd]  
-💙 Loving ux design, ux research, data science, science communication, ui design, video games, HTML, CSS, and more!
+## I'm a User experience (UX) researcher and designer!
 
+- 👩‍💻 Working on: [thesis][thesis]  
+- 🧠 Learning: [figma][figma], [adobe-xd][adobexd]  
+- 💙 Loving: ux design, ux research, data science, science communication, ui design, video games, HTML, CSS, and more!  
+- 📛 Pronouns: she/her  
+
+### Connect with me!
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
 📷 [instagram][instagram] **|** 
